@@ -15,8 +15,8 @@
   ],
   "compilerOptions": {
     "target": "es2020",
-    "forceConsistentCasingInFileNames": false,
-    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
